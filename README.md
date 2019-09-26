@@ -12,6 +12,6 @@
 
 ### Android
 
-- [20190926 / Dialog vs DialogFragment](https://stackoverflow.com/questions/13765127/dialogfragment-advantages-over-alertdialog/13765411)
+- [20190926 / Dialog vs DialogFragment](https://github.com/sc545/TIL/blob/master/android/20190926.md)
 
 ---
