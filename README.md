@@ -15,3 +15,9 @@
 - [20190926 / Dialog vs DialogFragment](https://github.com/sc545/TIL/blob/master/android/20190926.md)
 
 ---
+
+### Etc
+
+- [20190926 / Modal vs Modeless](https://github.com/sc545/TIL/blob/master/etc/20190926.md)
+
+---
